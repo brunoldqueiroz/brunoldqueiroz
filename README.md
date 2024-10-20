@@ -26,7 +26,6 @@ Atualmente, trabalho com:
 - **Criação e manutenção de pipelines de dados**
 - **Desenvolvimento de infraestruturas de dados**
 - **Automatização de fluxos de dados**
-- **Armazenamento e análise de dados**
 - **Criação de DataLakes e DataWarehouses**
 
 ### 🌱 No que estou trabalhando?
