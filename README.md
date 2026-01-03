@@ -84,24 +84,13 @@ Olá, me chamo Bruno Queiroz, Engenheiro de Dados e IA focado em construir pipel
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=brunoldqueiroz&show_icons=true&theme=default&hide_border=true&count_private=true" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunoldqueiroz&layout=compact&theme=default&hide_border=true" />
+<img src="https://raw.githubusercontent.com/brunoldqueiroz/brunoldqueiroz/main/profile-summary-card-output/default/0-profile-details.svg" />
 
-</div>
+<img src="https://raw.githubusercontent.com/brunoldqueiroz/brunoldqueiroz/main/profile-summary-card-output/default/1-repos-per-language.svg" />
+<img src="https://raw.githubusercontent.com/brunoldqueiroz/brunoldqueiroz/main/profile-summary-card-output/default/2-most-commit-language.svg" />
 
-<div align="center">
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=brunoldqueiroz&theme=default&hide_border=true)](https://git.io/streak-stats)
-
-</div>
-
----
-
-### Activity Graph
-
-<div align="center">
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=brunoldqueiroz&theme=minimal&hide_border=true&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<img src="https://raw.githubusercontent.com/brunoldqueiroz/brunoldqueiroz/main/profile-summary-card-output/default/3-stats.svg" />
+<img src="https://raw.githubusercontent.com/brunoldqueiroz/brunoldqueiroz/main/profile-summary-card-output/default/4-productive-time.svg" />
 
 </div>
 
