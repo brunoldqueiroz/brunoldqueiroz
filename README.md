@@ -1,50 +1,139 @@
-# 👋 Olá!
+<div align="center">
 
-**Data Engineer | Python Developer | Cloud Enthusiast**
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=3178C6&center=true&vCenter=true&width=700&lines=Engenheiro+de+Dados;Engenheiro+de+IA;Especialista+em+LLM+%26+RAG;Pipelines+de+Dados+Escal%C3%A1veis)](https://git.io/typing-svg)
 
-Olá, me chamo Bruno Queiroz e atualmente atuo como Engenheiro de Dados. Comecei a minha jornada como Analista de Dados e, desde então venho aprimorando minhas habilidades para a entrega de pipelines de dados robustos e escaláveis.
+![Profile Views](https://komarev.com/ghpvc/?username=brunoldqueiroz&color=blue&style=flat)
 
-### 🛠️ Algumas Tecnologias e Ferramentas que uso
-
-![Python](https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=Python&logoColor=white)
-![AWS](https://img.shields.io/badge/Amazon%20Web%20Services-232F3E.svg?style=for-the-badge&logo=Amazon-Web-Services&logoColor=white)
-![DuckDB](https://img.shields.io/badge/DuckDB-FFF000.svg?style=for-the-badge&logo=DuckDB&logoColor=black)
-![Postgres](https://img.shields.io/badge/PostgreSQL-4169E1.svg?style=for-the-badge&logo=PostgreSQL&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=MySQL&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624.svg?style=for-the-badge&logo=Linux&logoColor=black)
-![Docker](https://img.shields.io/badge/Docker-2496ED.svg?style=for-the-badge&logo=Docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5.svg?style=for-the-badge&logo=Kubernetes&logoColor=white)
-![Kafka](https://img.shields.io/badge/Apache%20Kafka-231F20.svg?style=for-the-badge&logo=Apache-Kafka&logoColor=white)
-![MinIO](https://img.shields.io/badge/MinIO-C72E49.svg?style=for-the-badge&logo=MinIO&logoColor=white)
-![Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE.svg?style=for-the-badge&logo=Apache-Airflow&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=Git&logoColor=white)
-![Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C.svg?style=for-the-badge&logo=Apache-Spark&logoColor=white)
-![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00.svg?style=for-the-badge&logo=SQLAlchemy&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626.svg?style=for-the-badge&logo=Jupyter&logoColor=white)
-![Polars](https://img.shields.io/badge/Polars-CD792C.svg?style=for-the-badge&logo=Polars&logoColor=white)
-![Pandas](https://img.shields.io/badge/pandas-150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-
-### 🚀 O que eu faço?
-
-Atualmente, trabalho com:
-
-- **Criação e manutenção de pipelines de dados**
-- **Desenvolvimento de infraestruturas de dados**
-- **Automatização de fluxos de dados**
-- **Criação de DataLakes e DataWarehouses**
-
-### 🌱 No que estou trabalhando?
-
-No momento, estou focado em:
-
-- Projetos de pipelines de dados distribuídos, escaláveis e otimizados para o processamento de dados em tempo real e batch.
-- Aprimorar meu conhecimento em ferramentas de processamento de dados em tempo real, como Kafka.
-- Compartilhar mais sobre minhas experiências e aprendizados através de projetos open source e tutoriais.
+</div>
 
 ---
 
-### 📫 Como me encontrar?
+### Sobre Mim
 
-Se você quiser trocar uma ideia sobre engenharia de dados, python, serviços de nuvem ou até colaborações em projetos open source, fique à vontade para se conectar comigo no LinkedIn!
+Olá, me chamo Bruno Queiroz, Engenheiro de Dados e IA focado em construir pipelines de dados escaláveis, aplicações LLM e sistemas RAG. Me especializo em transformar dados brutos em soluções inteligentes usando tecnologias modernas de engenharia de dados e IA.
 
-**LinkedIn**: [https://www.linkedin.com/in/brunoldqueiroz/](https://www.linkedin.com/in/brunoldqueiroz/)
+---
+
+### Áreas de Foco
+
+<div align="center">
+
+`Data Engineering` · `AI Engineering` · `LLM` · `RAG` · `Data Pipelines` · `MLOps`
+
+</div>
+
+---
+
+### Tech Stack
+
+**Core**
+
+![Python](https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=Python&logoColor=white)
+![Apache Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C.svg?style=for-the-badge&logo=Apache-Spark&logoColor=white)
+![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE.svg?style=for-the-badge&logo=Apache-Airflow&logoColor=white)
+![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-231F20.svg?style=for-the-badge&logo=Apache-Kafka&logoColor=white)
+
+**AI & LLM**
+
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C.svg?style=for-the-badge&logo=LangChain&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991.svg?style=for-the-badge&logo=OpenAI&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E.svg?style=for-the-badge&logo=Hugging-Face&logoColor=black)
+
+**Data & Databases**
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1.svg?style=for-the-badge&logo=PostgreSQL&logoColor=white)
+![DuckDB](https://img.shields.io/badge/DuckDB-FFF000.svg?style=for-the-badge&logo=DuckDB&logoColor=black)
+![Polars](https://img.shields.io/badge/Polars-CD792C.svg?style=for-the-badge&logo=Polars&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+
+**Cloud & Infra**
+
+![AWS](https://img.shields.io/badge/Amazon%20Web%20Services-232F3E.svg?style=for-the-badge&logo=Amazon-Web-Services&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED.svg?style=for-the-badge&logo=Docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5.svg?style=for-the-badge&logo=Kubernetes&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624.svg?style=for-the-badge&logo=Linux&logoColor=black)
+
+**Tools**
+
+![Git](https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=Git&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626.svg?style=for-the-badge&logo=Jupyter&logoColor=white)
+![MinIO](https://img.shields.io/badge/MinIO-C72E49.svg?style=for-the-badge&logo=MinIO&logoColor=white)
+
+---
+
+### O que eu faço
+
+- Projetar e construir pipelines de dados escaláveis com Spark e Airflow
+- Desenvolver aplicações LLM e sistemas RAG
+- Criar DataLakes e DataWarehouses
+- Implementar processamento de dados em tempo real com Kafka
+- Construir soluções de dados com IA
+
+---
+
+### No que estou trabalhando
+
+- Pipelines de processamento de dados com LLM
+- Aplicações RAG para dados empresariais
+- Arquiteturas de streaming em tempo real
+- Projetos open source de IA e engenharia de dados
+
+---
+
+### GitHub Stats
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=brunoldqueiroz&show_icons=true&theme=default&hide_border=true&count_private=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunoldqueiroz&layout=compact&theme=default&hide_border=true" />
+
+</div>
+
+<div align="center">
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=brunoldqueiroz&theme=default&hide_border=true)](https://git.io/streak-stats)
+
+</div>
+
+---
+
+### Activity Graph
+
+<div align="center">
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=brunoldqueiroz&theme=minimal&hide_border=true&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+</div>
+
+---
+
+### Snake Animation
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/brunoldqueiroz/brunoldqueiroz/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/brunoldqueiroz/brunoldqueiroz/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/brunoldqueiroz/brunoldqueiroz/output/github-snake.svg" />
+</picture>
+
+</div>
+
+---
+
+### Contato
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/brunoldqueiroz/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/brunoldqueiroz)
+
+</div>
+
+---
+
+<div align="center">
+
+**Vamos construir soluções de dados inteligentes juntos!**
+
+</div>
