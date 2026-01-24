@@ -35,6 +35,11 @@ Olá, me chamo Bruno Queiroz, Engenheiro de Dados focado em construir pipelines 
 ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-231F20.svg?style=for-the-badge&logo=Apache-Kafka&logoColor=white)
 ![dbt](https://img.shields.io/badge/dbt-FF694B.svg?style=for-the-badge&logo=dbt&logoColor=white)
 
+**Data Platforms**
+
+![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8.svg?style=for-the-badge&logo=Snowflake&logoColor=white)
+![Databricks](https://img.shields.io/badge/Databricks-FF3621.svg?style=for-the-badge&logo=Databricks&logoColor=white)
+
 **Data & Databases**
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1.svg?style=for-the-badge&logo=PostgreSQL&logoColor=white)
@@ -79,6 +84,11 @@ Olá, me chamo Bruno Queiroz, Engenheiro de Dados focado em construir pipelines 
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C.svg?style=for-the-badge&logo=LangChain&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991.svg?style=for-the-badge&logo=OpenAI&logoColor=white)
 ![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E.svg?style=for-the-badge&logo=Hugging-Face&logoColor=black)
+![Claude](https://img.shields.io/badge/Claude-D97757.svg?style=for-the-badge&logo=Anthropic&logoColor=white)
+![CrewAI](https://img.shields.io/badge/CrewAI-FF5A50.svg?style=for-the-badge&logo=Robot&logoColor=white)
+![Langfuse](https://img.shields.io/badge/Langfuse-0EA5E9.svg?style=for-the-badge&logo=Langfuse&logoColor=white)
+![Dify](https://img.shields.io/badge/Dify-1677FF.svg?style=for-the-badge&logo=Dify&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-EA4B71.svg?style=for-the-badge&logo=n8n&logoColor=white)
 
 - Desenvolvimento de aplicações LLM e sistemas RAG
 - Integração de IA em pipelines de dados
