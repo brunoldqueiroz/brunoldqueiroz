@@ -132,14 +132,6 @@ Olá, me chamo Bruno Queiroz, Engenheiro de Dados focado em construir pipelines 
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/brunoldqueiroz/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/brunoldqueiroz)
 
 </div>
 
----
-
-<div align="center">
-
-**Vamos construir pipelines de dados escaláveis juntos!**
-
-</div>
