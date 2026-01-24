@@ -97,22 +97,6 @@ Olá, me chamo Bruno Queiroz, Engenheiro de Dados focado em construir pipelines 
 
 ---
 
-### GitHub Stats
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/brunoldqueiroz/brunoldqueiroz/main/profile-summary-card-output/default/0-profile-details.svg" />
-
-<img src="https://raw.githubusercontent.com/brunoldqueiroz/brunoldqueiroz/main/profile-summary-card-output/default/1-repos-per-language.svg" />
-<img src="https://raw.githubusercontent.com/brunoldqueiroz/brunoldqueiroz/main/profile-summary-card-output/default/2-most-commit-language.svg" />
-
-<img src="https://raw.githubusercontent.com/brunoldqueiroz/brunoldqueiroz/main/profile-summary-card-output/default/3-stats.svg" />
-<img src="https://raw.githubusercontent.com/brunoldqueiroz/brunoldqueiroz/main/profile-summary-card-output/default/4-productive-time.svg" />
-
-</div>
-
----
-
 ### Snake Animation
 
 <div align="center">
