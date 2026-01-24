@@ -1,6 +1,6 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=3178C6&center=true&vCenter=true&width=700&lines=Engenheiro+de+Dados;Engenheiro+de+IA;Especialista+em+LLM+%26+RAG;Pipelines+de+Dados+Escal%C3%A1veis)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=3178C6&center=true&vCenter=true&width=700&lines=Engenheiro+de+Dados;Pipelines+de+Dados+Escal%C3%A1veis;Data+Lakes+%26+Data+Warehouses;Big+Data+%26+Streaming)](https://git.io/typing-svg)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=brunoldqueiroz&color=blue&style=flat)
 
@@ -10,7 +10,7 @@
 
 ### Sobre Mim
 
-Olá, me chamo Bruno Queiroz, Engenheiro de Dados e IA focado em construir pipelines de dados escaláveis, aplicações LLM e sistemas RAG. Me especializo em transformar dados brutos em soluções inteligentes usando tecnologias modernas de engenharia de dados e IA.
+Olá, me chamo Bruno Queiroz, Engenheiro de Dados focado em construir pipelines de dados escaláveis, arquiteturas de Data Lake/Data Warehouse e soluções de processamento em tempo real. Me especializo em transformar dados brutos em informações estruturadas e acessíveis usando tecnologias modernas de engenharia de dados.
 
 ---
 
@@ -18,7 +18,7 @@ Olá, me chamo Bruno Queiroz, Engenheiro de Dados e IA focado em construir pipel
 
 <div align="center">
 
-`Data Engineering` · `AI Engineering` · `LLM` · `RAG` · `Data Pipelines` · `MLOps`
+`Data Engineering` · `Data Pipelines` · `ETL/ELT` · `Data Lake` · `Data Warehouse` · `Streaming`
 
 </div>
 
@@ -29,15 +29,11 @@ Olá, me chamo Bruno Queiroz, Engenheiro de Dados e IA focado em construir pipel
 **Core**
 
 ![Python](https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=Python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1.svg?style=for-the-badge&logo=MySQL&logoColor=white)
 ![Apache Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C.svg?style=for-the-badge&logo=Apache-Spark&logoColor=white)
 ![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE.svg?style=for-the-badge&logo=Apache-Airflow&logoColor=white)
 ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-231F20.svg?style=for-the-badge&logo=Apache-Kafka&logoColor=white)
-
-**AI & LLM**
-
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C.svg?style=for-the-badge&logo=LangChain&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991.svg?style=for-the-badge&logo=OpenAI&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E.svg?style=for-the-badge&logo=Hugging-Face&logoColor=black)
+![dbt](https://img.shields.io/badge/dbt-FF694B.svg?style=for-the-badge&logo=dbt&logoColor=white)
 
 **Data & Databases**
 
@@ -64,19 +60,30 @@ Olá, me chamo Bruno Queiroz, Engenheiro de Dados e IA focado em construir pipel
 ### O que eu faço
 
 - Projetar e construir pipelines de dados escaláveis com Spark e Airflow
-- Desenvolver aplicações LLM e sistemas RAG
-- Criar DataLakes e DataWarehouses
+- Criar arquiteturas de Data Lake e Data Warehouse
 - Implementar processamento de dados em tempo real com Kafka
-- Construir soluções de dados com IA
+- Desenvolver soluções ETL/ELT robustas e eficientes
+- Modelagem de dados e otimização de consultas SQL
+- Garantir qualidade e governança de dados
 
 ---
 
-### No que estou trabalhando
+### Estudando Atualmente
 
-- Pipelines de processamento de dados com LLM
-- Aplicações RAG para dados empresariais
-- Arquiteturas de streaming em tempo real
-- Projetos open source de IA e engenharia de dados
+<div align="center">
+
+`AI Engineering` · `LLM` · `RAG` · `MLOps`
+
+</div>
+
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C.svg?style=for-the-badge&logo=LangChain&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991.svg?style=for-the-badge&logo=OpenAI&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E.svg?style=for-the-badge&logo=Hugging-Face&logoColor=black)
+
+- Desenvolvimento de aplicações LLM e sistemas RAG
+- Integração de IA em pipelines de dados
+- MLOps e deploy de modelos em produção
+- Processamento de dados para treinamento de modelos
 
 ---
 
@@ -123,6 +130,6 @@ Olá, me chamo Bruno Queiroz, Engenheiro de Dados e IA focado em construir pipel
 
 <div align="center">
 
-**Vamos construir soluções de dados inteligentes juntos!**
+**Vamos construir pipelines de dados escaláveis juntos!**
 
 </div>
