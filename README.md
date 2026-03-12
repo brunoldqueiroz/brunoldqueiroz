@@ -1,6 +1,6 @@
 # Sobre Mim
 
-Opa! Me chamo Bruno Queiroz, Engenheiro de Dados focado em construir pipelines de dados escaláveis, arquiteturas de Data Lake/Data Warehouse e soluções de processamento em tempo real.
+Opa! Me chamo Bruno Queiroz, Data Engineer focado em construir pipelines de dados escaláveis, arquiteturas de Lake House e soluções de processamento em tempo real.
 
 <div align="center">
 
