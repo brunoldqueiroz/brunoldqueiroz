@@ -1,16 +1,12 @@
+# Sobre Mim
+
+Opa! Me chamo Bruno Queiroz, Engenheiro de Dados focado em construir pipelines de dados escaláveis, arquiteturas de Data Lake/Data Warehouse e soluções de processamento em tempo real.
+
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=3178C6&center=true&vCenter=true&width=700&lines=Engenheiro+de+Dados;Pipelines+de+Dados+Escal%C3%A1veis;Data+Lakes+%26+Data+Warehouses;Big+Data+%26+Streaming)](https://git.io/typing-svg)
-
-![Profile Views](https://komarev.com/ghpvc/?username=brunoldqueiroz&color=blue&style=flat)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/brunoldqueiroz/)
 
 </div>
-
----
-
-### Sobre Mim
-
-Olá, me chamo Bruno Queiroz, Engenheiro de Dados focado em construir pipelines de dados escaláveis, arquiteturas de Data Lake/Data Warehouse e soluções de processamento em tempo real. Me especializo em transformar dados brutos em informações estruturadas e acessíveis usando tecnologias modernas de engenharia de dados.
 
 ---
 
@@ -18,7 +14,7 @@ Olá, me chamo Bruno Queiroz, Engenheiro de Dados focado em construir pipelines 
 
 <div align="center">
 
-`Data Engineering` · `Data Pipelines` · `ETL/ELT` · `Data Lake` · `Data Warehouse` · `Streaming`
+`Data Engineering` · `Data Pipelines` · `ETL/ELT` · `Data Lake` · `Data Warehouse` · `Streaming` · `Lake House` · `AI Engineering` · `DataOps`
 
 </div>
 
@@ -64,10 +60,10 @@ Olá, me chamo Bruno Queiroz, Engenheiro de Dados focado em construir pipelines 
 
 ### O que eu faço
 
-- Projetar e construir pipelines de dados escaláveis com Spark e Airflow
-- Criar arquiteturas de Data Lake e Data Warehouse
-- Implementar processamento de dados em tempo real com Kafka
-- Desenvolver soluções ETL/ELT robustas e eficientes
+- Projetar e construir pipelines de dados escaláveis com
+- Criar arquiteturas de Data Lake, Lake House e Data Warehouse
+- Implementar processamento de dados em tempo real
+- Desenvolver soluções robustas e eficientes
 - Modelagem de dados e otimização de consultas SQL
 - Garantir qualidade e governança de dados
 
@@ -96,26 +92,3 @@ Olá, me chamo Bruno Queiroz, Engenheiro de Dados focado em construir pipelines 
 - Processamento de dados para treinamento de modelos
 
 ---
-
-### Snake Animation
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/brunoldqueiroz/brunoldqueiroz/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/brunoldqueiroz/brunoldqueiroz/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/brunoldqueiroz/brunoldqueiroz/output/github-snake.svg" />
-</picture>
-
-</div>
-
----
-
-### Contato
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/brunoldqueiroz/)
-
-</div>
-
