@@ -2,12 +2,6 @@
 
 Opa! Me chamo Bruno Queiroz, Data Engineer focado em construir pipelines de dados escaláveis, arquiteturas de Lake House e soluções de processamento em tempo real.
 
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/brunoldqueiroz/)
-
-</div>
-
 ---
 
 ### Áreas de Foco
